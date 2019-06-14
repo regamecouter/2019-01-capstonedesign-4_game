@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.d_game1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\캡스톤1\\4_game new (2)\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "D_game(1) [Testing]"
+        }
+      }
+    }
+  ]
+}

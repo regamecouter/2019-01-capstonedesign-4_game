@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: bc07ed9a63dad1e46906819444fb8c6f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 046
+    100002: 047
+    100004: 048
+    100006: Boolean
+    100008: Dummy001
+    100010: Dummy002
+    100012: Group6117
+    100014: Group6120
+    100016: Group6122
+    100018: Group6123
+    100020: Group6124
+    100022: Group6125
+    100024: Group6126
+    100026: Group6127
+    100028: //RootNode
+    100030: "Layer:\uAF43\uB2F4\uC11D047"
+    100032: "Layer:\uAF43\uB2F4\uC11D048"
+    100034: "Layer:\uAF43\uB2F4\uC11D049"
+    100036: Line1983493969
+    100038: Line1983493971
+    100040: Line1983493972
+    100042: Line1983493973
+    100044: Line1983493974
+    100046: Line1983493975
+    100048: Line1983493976
+    100050: Line1983493977
+    100052: Line1983493978
+    100054: Line1983493979
+    100056: Line1983493980
+    100058: Line1983493981
+    100060: Line1983493982
+    100062: Line1983493983
+    100064: Line1983493984
+    100066: Line1983493985
+    100068: Line1983493986
+    100070: Line1983493987
+    100072: Line1983493988
+    100074: Line1983493989
+    100076: Line1983493990
+    100078: Line1983493991
+    100080: Line1983493992
+    100082: Line1983493993
+    100084: Line1983493994
+    100086: Line1983493995
+    100088: Line1983493996
+    100090: Line1983493997
+    100092: Line1983493998
+    100094: Line1983493999
+    100096: Line1983494000
+    100098: Line1983494001
+    100100: Line1983494002
+    100102: Line1983494003
+    100104: Line1983494004
+    100106: Line1983494005
+    100108: Line1983494006
+    100110: Line1983494007
+    100112: Line1983494008
+    100114: Line1983494009
+    100116: Line1983494010
+    100118: Line1983494011
+    100120: Line1983494012
+    100122: Line1983494013
+    100124: Line1983494014
+    100126: Line1983494015
+    100128: Line1983494016
+    100130: Line1983494017
+    100132: Line1983494018
+    100134: Line1983494019
+    100136: Line1983494020
+    100138: Line1983494021
+    100140: Line1983494022
+    100142: Line1983494023
+    100144: Line1983494024
+    100146: Line1983494025
+    100148: Line1983494026
+    100150: Line1983494027
+    100152: Line1983494028
+    100154: Line1983494029
+    100156: Line1983494030
+    100158: Line1983494031
+    100160: Line1983494032
+    100162: Line1983494033
+    100164: Line1983494035
+    100166: Line1983494036
+    100168: Line1983494037
+    100170: Line1983494038
+    100172: Line1983494039
+    100174: Line1983494040
+    100176: Line1983494041
+    100178: Line1983494042
+    100180: Line1983494043
+    100182: Line1983494044
+    100184: Line1983494045
+    100186: Line1983494046
+    100188: Line1983494047
+    100190: Line1983494049
+    100192: Line1983494050
+    100194: Line1983494051
+    100196: Line1983494052
+    100198: Line1983494053
+    100200: Line1983494054
+    100202: Line1983494055
+    100204: Line1983494056
+    100206: Line1983494057
+    100208: Line1983494058
+    100210: Line1983494059
+    100212: Line1983494060
+    100214: Object19142
+    100216: Object19143
+    100218: Object19144
+    100220: Object19145
+    100222: Object19146
+    100224: Object19147
+    100226: Object19148
+    100228: Object19149
+    100230: Object19150
+    100232: Object19151
+    100234: Rectangle16129
+    100236: Rectangle16130
+    100238: Rectangle16131
+    100240: ridge tile-A
+    100242: ridge tile-B
+    100244: ridge tile-B002
+    100246: ridge tile-B003
+    100248: ridge tile-C
+    100250: ridge tile-C001
+    100252: ridge tile-C002
+    100254: ridge tile-D
+    100256: ridge tile-D001
+    100258: ridge tile-D002
+    100260: ridge tile-D003
+    100262: ridge tile-D004
+    100264: roof
+    100266: rooftile-B-0001
+    100268: rooftile-B-002
+    100270: rooftile-B-003
+    100272: rooftile-B-004
+    100274: rooftile-B-005
+    100276: rooftile-B-006
+    100278: rooftile-B-007
+    100280: rooftile-B-008
+    100282: rooftile-B-009
+    100284: rooftile-B-010
+    100286: rooftile-B-011
+    100288: rooftile-B-012
+    100290: rooftile-B-013
+    100292: rooftile-B-014
+    100294: rooftile-B-015
+    100296: rooftile-B-016
+    100298: rooftile-B-017
+    100300: rooftile-B-018
+    100302: rooftile-B-019
+    100304: rooftile-B-020
+    100306: rooftile-B-021
+    100308: rooftile-B-022
+    100310: rooftile-B-023
+    100312: rooftile-B-024
+    100314: rooftile-B-025
+    100316: rooftile-B-026
+    100318: rooftile-B-027
+    100320: rooftile-B-028
+    100322: rooftile-B-029
+    100324: rooftile-B-030
+    100326: rooftile-B-031
+    100328: rooftile-B-032
+    100330: rooftile-B-063
+    100332: rooftile-B-064
+    100334: rooftile-B-065
+    100336: rooftile-B-066
+    100338: rooftile-B-067
+    100340: rooftile-B-068
+    100342: rooftile-B-069
+    100344: rooftile-B-070
+    100346: Text001
+    100348: Text002
+    100350: Text003
+    100352: Text004
+    100354: Text005
+    100356: Text006
+    100358: Text007
+    100360: VRayLight001
+    400000: 046
+    400002: 047
+    400004: 048
+    400006: Boolean
+    400008: Dummy001
+    400010: Dummy002
+    400012: Group6117
+    400014: Group6120
+    400016: Group6122
+    400018: Group6123
+    400020: Group6124
+    400022: Group6125
+    400024: Group6126
+    400026: Group6127
+    400028: //RootNode
+    400030: "Layer:\uAF43\uB2F4\uC11D047"
+    400032: "Layer:\uAF43\uB2F4\uC11D048"
+    400034: "Layer:\uAF43\uB2F4\uC11D049"
+    400036: Line1983493969
+    400038: Line1983493971
+    400040: Line1983493972
+    400042: Line1983493973
+    400044: Line1983493974
+    400046: Line1983493975
+    400048: Line1983493976
+    400050: Line1983493977
+    400052: Line1983493978
+    400054: Line1983493979
+    400056: Line1983493980
+    400058: Line1983493981
+    400060: Line1983493982
+    400062: Line1983493983
+    400064: Line1983493984
+    400066: Line1983493985
+    400068: Line1983493986
+    400070: Line1983493987
+    400072: Line1983493988
+    400074: Line1983493989
+    400076: Line1983493990
+    400078: Line1983493991
+    400080: Line1983493992
+    400082: Line1983493993
+    400084: Line1983493994
+    400086: Line1983493995
+    400088: Line1983493996
+    400090: Line1983493997
+    400092: Line1983493998
+    400094: Line1983493999
+    400096: Line1983494000
+    400098: Line1983494001
+    400100: Line1983494002
+    400102: Line1983494003
+    400104: Line1983494004
+    400106: Line1983494005
+    400108: Line1983494006
+    400110: Line1983494007
+    400112: Line1983494008
+    400114: Line1983494009
+    400116: Line1983494010
+    400118: Line1983494011
+    400120: Line1983494012
+    400122: Line1983494013
+    400124: Line1983494014
+    400126: Line1983494015
+    400128: Line1983494016
+    400130: Line1983494017
+    400132: Line1983494018
+    400134: Line1983494019
+    400136: Line1983494020
+    400138: Line1983494021
+    400140: Line1983494022
+    400142: Line1983494023
+    400144: Line1983494024
+    400146: Line1983494025
+    400148: Line1983494026
+    400150: Line1983494027
+    400152: Line1983494028
+    400154: Line1983494029
+    400156: Line1983494030
+    400158: Line1983494031
+    400160: Line1983494032
+    400162: Line1983494033
+    400164: Line1983494035
+    400166: Line1983494036
+    400168: Line1983494037
+    400170: Line1983494038
+    400172: Line1983494039
+    400174: Line1983494040
+    400176: Line1983494041
+    400178: Line1983494042
+    400180: Line1983494043
+    400182: Line1983494044
+    400184: Line1983494045
+    400186: Line1983494046
+    400188: Line1983494047
+    400190: Line1983494049
+    400192: Line1983494050
+    400194: Line1983494051
+    400196: Line1983494052
+    400198: Line1983494053
+    400200: Line1983494054
+    400202: Line1983494055
+    400204: Line1983494056
+    400206: Line1983494057
+    400208: Line1983494058
+    400210: Line1983494059
+    400212: Line1983494060
+    400214: Object19142
+    400216: Object19143
+    400218: Object19144
+    400220: Object19145
+    400222: Object19146
+    400224: Object19147
+    400226: Object19148
+    400228: Object19149
+    400230: Object19150
+    400232: Object19151
+    400234: Rectangle16129
+    400236: Rectangle16130
+    400238: Rectangle16131
+    400240: ridge tile-A
+    400242: ridge tile-B
+    400244: ridge tile-B002
+    400246: ridge tile-B003
+    400248: ridge tile-C
+    400250: ridge tile-C001
+    400252: ridge tile-C002
+    400254: ridge tile-D
+    400256: ridge tile-D001
+    400258: ridge tile-D002
+    400260: ridge tile-D003
+    400262: ridge tile-D004
+    400264: roof
+    400266: rooftile-B-0001
+    400268: rooftile-B-002
+    400270: rooftile-B-003
+    400272: rooftile-B-004
+    400274: rooftile-B-005
+    400276: rooftile-B-006
+    400278: rooftile-B-007
+    400280: rooftile-B-008
+    400282: rooftile-B-009
+    400284: rooftile-B-010
+    400286: rooftile-B-011
+    400288: rooftile-B-012
+    400290: rooftile-B-013
+    400292: rooftile-B-014
+    400294: rooftile-B-015
+    400296: rooftile-B-016
+    400298: rooftile-B-017
+    400300: rooftile-B-018
+    400302: rooftile-B-019
+    400304: rooftile-B-020
+    400306: rooftile-B-021
+    400308: rooftile-B-022
+    400310: rooftile-B-023
+    400312: rooftile-B-024
+    400314: rooftile-B-025
+    400316: rooftile-B-026
+    400318: rooftile-B-027
+    400320: rooftile-B-028
+    400322: rooftile-B-029
+    400324: rooftile-B-030
+    400326: rooftile-B-031
+    400328: rooftile-B-032
+    400330: rooftile-B-063
+    400332: rooftile-B-064
+    400334: rooftile-B-065
+    400336: rooftile-B-066
+    400338: rooftile-B-067
+    400340: rooftile-B-068
+    400342: rooftile-B-069
+    400344: rooftile-B-070
+    400346: Text001
+    400348: Text002
+    400350: Text003
+    400352: Text004
+    400354: Text005
+    400356: Text006
+    400358: Text007
+    400360: VRayLight001
+    2100000: 'Material #2097578423'
+    2100002: 0010
+    2100004: 0009
+    2100006: wood
+    2100008: No Name
+    2100010: 0002
+    2100012: 0004
+    2100014: 0005
+    2100016: 0003
+    2100018: 0001
+    2100020: 0007
+    2300000: Boolean
+    2300002: "Layer:\uAF43\uB2F4\uC11D047"
+    2300004: "Layer:\uAF43\uB2F4\uC11D048"
+    2300006: "Layer:\uAF43\uB2F4\uC11D049"
+    2300008: Line1983493972
+    2300010: Line1983493975
+    2300012: Line1983493977
+    2300014: Line1983493979
+    2300016: Line1983493981
+    2300018: Line1983493983
+    2300020: Line1983493985
+    2300022: Line1983493987
+    2300024: Line1983493989
+    2300026: Line1983493991
+    2300028: Line1983493993
+    2300030: Line1983493995
+    2300032: Line1983493997
+    2300034: Line1983493999
+    2300036: Line1983494001
+    2300038: Line1983494003
+    2300040: Line1983494005
+    2300042: Line1983494007
+    2300044: Line1983494009
+    2300046: Line1983494011
+    2300048: Line1983494013
+    2300050: Line1983494015
+    2300052: Line1983494017
+    2300054: Line1983494019
+    2300056: Line1983494021
+    2300058: Line1983494023
+    2300060: Line1983494025
+    2300062: Line1983494027
+    2300064: Line1983494029
+    2300066: Line1983494031
+    2300068: Line1983494033
+    2300070: Line1983494037
+    2300072: Line1983494038
+    2300074: Line1983494039
+    2300076: Line1983494040
+    2300078: Line1983494041
+    2300080: Line1983494042
+    2300082: Line1983494043
+    2300084: Line1983494044
+    2300086: Line1983494045
+    2300088: Line1983494046
+    2300090: Line1983494049
+    2300092: Line1983494050
+    2300094: Line1983494051
+    2300096: Line1983494052
+    2300098: Line1983494053
+    2300100: Line1983494054
+    2300102: Line1983494055
+    2300104: Line1983494056
+    2300106: Line1983494057
+    2300108: Line1983494058
+    2300110: Object19142
+    2300112: Object19143
+    2300114: Object19144
+    2300116: Object19145
+    2300118: Object19146
+    2300120: Object19147
+    2300122: Object19148
+    2300124: Object19149
+    2300126: Object19150
+    2300128: Object19151
+    2300130: Rectangle16129
+    2300132: Rectangle16130
+    2300134: Rectangle16131
+    2300136: ridge tile-A
+    2300138: ridge tile-B
+    2300140: ridge tile-B002
+    2300142: ridge tile-B003
+    2300144: ridge tile-C
+    2300146: ridge tile-C001
+    2300148: ridge tile-C002
+    2300150: ridge tile-D
+    2300152: ridge tile-D001
+    2300154: ridge tile-D002
+    2300156: ridge tile-D003
+    2300158: ridge tile-D004
+    2300160: rooftile-B-0001
+    2300162: rooftile-B-002
+    2300164: rooftile-B-003
+    2300166: rooftile-B-004
+    2300168: rooftile-B-005
+    2300170: rooftile-B-006
+    2300172: rooftile-B-007
+    2300174: rooftile-B-008
+    2300176: rooftile-B-009
+    2300178: rooftile-B-010
+    2300180: rooftile-B-011
+    2300182: rooftile-B-012
+    2300184: rooftile-B-013
+    2300186: rooftile-B-014
+    2300188: rooftile-B-015
+    2300190: rooftile-B-016
+    2300192: rooftile-B-017
+    2300194: rooftile-B-018
+    2300196: rooftile-B-019
+    2300198: rooftile-B-020
+    2300200: rooftile-B-021
+    2300202: rooftile-B-022
+    2300204: rooftile-B-023
+    2300206: rooftile-B-024
+    2300208: rooftile-B-025
+    2300210: rooftile-B-026
+    2300212: rooftile-B-027
+    2300214: rooftile-B-028
+    2300216: rooftile-B-029
+    2300218: rooftile-B-030
+    2300220: rooftile-B-031
+    2300222: rooftile-B-032
+    2300224: rooftile-B-063
+    2300226: rooftile-B-064
+    2300228: rooftile-B-065
+    2300230: rooftile-B-066
+    2300232: rooftile-B-067
+    2300234: rooftile-B-068
+    2300236: rooftile-B-069
+    2300238: rooftile-B-070
+    3300000: Boolean
+    3300002: "Layer:\uAF43\uB2F4\uC11D047"
+    3300004: "Layer:\uAF43\uB2F4\uC11D048"
+    3300006: "Layer:\uAF43\uB2F4\uC11D049"
+    3300008: Line1983493972
+    3300010: Line1983493975
+    3300012: Line1983493977
+    3300014: Line1983493979
+    3300016: Line1983493981
+    3300018: Line1983493983
+    3300020: Line1983493985
+    3300022: Line1983493987
+    3300024: Line1983493989
+    3300026: Line1983493991
+    3300028: Line1983493993
+    3300030: Line1983493995
+    3300032: Line1983493997
+    3300034: Line1983493999
+    3300036: Line1983494001
+    3300038: Line1983494003
+    3300040: Line1983494005
+    3300042: Line1983494007
+    3300044: Line1983494009
+    3300046: Line1983494011
+    3300048: Line1983494013
+    3300050: Line1983494015
+    3300052: Line1983494017
+    3300054: Line1983494019
+    3300056: Line1983494021
+    3300058: Line1983494023
+    3300060: Line1983494025
+    3300062: Line1983494027
+    3300064: Line1983494029
+    3300066: Line1983494031
+    3300068: Line1983494033
+    3300070: Line1983494037
+    3300072: Line1983494038
+    3300074: Line1983494039
+    3300076: Line1983494040
+    3300078: Line1983494041
+    3300080: Line1983494042
+    3300082: Line1983494043
+    3300084: Line1983494044
+    3300086: Line1983494045
+    3300088: Line1983494046
+    3300090: Line1983494049
+    3300092: Line1983494050
+    3300094: Line1983494051
+    3300096: Line1983494052
+    3300098: Line1983494053
+    3300100: Line1983494054
+    3300102: Line1983494055
+    3300104: Line1983494056
+    3300106: Line1983494057
+    3300108: Line1983494058
+    3300110: Object19142
+    3300112: Object19143
+    3300114: Object19144
+    3300116: Object19145
+    3300118: Object19146
+    3300120: Object19147
+    3300122: Object19148
+    3300124: Object19149
+    3300126: Object19150
+    3300128: Object19151
+    3300130: Rectangle16129
+    3300132: Rectangle16130
+    3300134: Rectangle16131
+    3300136: ridge tile-A
+    3300138: ridge tile-B
+    3300140: ridge tile-B002
+    3300142: ridge tile-B003
+    3300144: ridge tile-C
+    3300146: ridge tile-C001
+    3300148: ridge tile-C002
+    3300150: ridge tile-D
+    3300152: ridge tile-D001
+    3300154: ridge tile-D002
+    3300156: ridge tile-D003
+    3300158: ridge tile-D004
+    3300160: rooftile-B-0001
+    3300162: rooftile-B-002
+    3300164: rooftile-B-003
+    3300166: rooftile-B-004
+    3300168: rooftile-B-005
+    3300170: rooftile-B-006
+    3300172: rooftile-B-007
+    3300174: rooftile-B-008
+    3300176: rooftile-B-009
+    3300178: rooftile-B-010
+    3300180: rooftile-B-011
+    3300182: rooftile-B-012
+    3300184: rooftile-B-013
+    3300186: rooftile-B-014
+    3300188: rooftile-B-015
+    3300190: rooftile-B-016
+    3300192: rooftile-B-017
+    3300194: rooftile-B-018
+    3300196: rooftile-B-019
+    3300198: rooftile-B-020
+    3300200: rooftile-B-021
+    3300202: rooftile-B-022
+    3300204: rooftile-B-023
+    3300206: rooftile-B-024
+    3300208: rooftile-B-025
+    3300210: rooftile-B-026
+    3300212: rooftile-B-027
+    3300214: rooftile-B-028
+    3300216: rooftile-B-029
+    3300218: rooftile-B-030
+    3300220: rooftile-B-031
+    3300222: rooftile-B-032
+    3300224: rooftile-B-063
+    3300226: rooftile-B-064
+    3300228: rooftile-B-065
+    3300230: rooftile-B-066
+    3300232: rooftile-B-067
+    3300234: rooftile-B-068
+    3300236: rooftile-B-069
+    3300238: rooftile-B-070
+    4300000: rooftile-B-0001
+    4300002: rooftile-B-002
+    4300004: Line1983493972
+    4300006: Line1983493975
+    4300008: rooftile-B-003
+    4300010: Line1983493977
+    4300012: rooftile-B-004
+    4300014: Line1983493979
+    4300016: rooftile-B-005
+    4300018: Line1983493981
+    4300020: rooftile-B-006
+    4300022: Line1983493983
+    4300024: rooftile-B-007
+    4300026: Line1983493985
+    4300028: rooftile-B-008
+    4300030: Line1983493987
+    4300032: rooftile-B-009
+    4300034: Line1983493989
+    4300036: rooftile-B-010
+    4300038: Line1983493991
+    4300040: rooftile-B-011
+    4300042: Line1983493993
+    4300044: rooftile-B-012
+    4300046: Line1983493995
+    4300048: rooftile-B-013
+    4300050: Line1983493997
+    4300052: rooftile-B-014
+    4300054: Line1983493999
+    4300056: rooftile-B-015
+    4300058: Line1983494001
+    4300060: rooftile-B-016
+    4300062: Line1983494003
+    4300064: rooftile-B-017
+    4300066: Line1983494005
+    4300068: rooftile-B-018
+    4300070: Line1983494007
+    4300072: rooftile-B-019
+    4300074: Line1983494009
+    4300076: rooftile-B-020
+    4300078: Line1983494011
+    4300080: rooftile-B-021
+    4300082: Line1983494013
+    4300084: rooftile-B-022
+    4300086: Line1983494015
+    4300088: rooftile-B-023
+    4300090: Line1983494017
+    4300092: rooftile-B-024
+    4300094: Line1983494019
+    4300096: rooftile-B-025
+    4300098: Line1983494021
+    4300100: rooftile-B-026
+    4300102: Line1983494023
+    4300104: rooftile-B-027
+    4300106: Line1983494025
+    4300108: rooftile-B-028
+    4300110: Line1983494027
+    4300112: rooftile-B-029
+    4300114: Line1983494029
+    4300116: rooftile-B-030
+    4300118: Line1983494031
+    4300120: rooftile-B-031
+    4300122: Line1983494033
+    4300124: rooftile-B-032
+    4300126: rooftile-B-063
+    4300128: Line1983494038
+    4300130: rooftile-B-064
+    4300132: Line1983494037
+    4300134: rooftile-B-065
+    4300136: Line1983494039
+    4300138: Line1983494040
+    4300140: rooftile-B-066
+    4300142: Line1983494041
+    4300144: Line1983494042
+    4300146: Boolean
+    4300148: rooftile-B-067
+    4300150: Line1983494045
+    4300152: Line1983494046
+    4300154: Line1983494044
+    4300156: rooftile-B-068
+    4300158: Line1983494043
+    4300160: ridge tile-B
+    4300162: ridge tile-A
+    4300164: Object19142
+    4300166: ridge tile-C
+    4300168: Object19145
+    4300170: ridge tile-D
+    4300172: ridge tile-D001
+    4300174: "Layer:\uAF43\uB2F4\uC11D047"
+    4300176: Rectangle16129
+    4300178: Line1983494049
+    4300180: Line1983494050
+    4300182: Object19143
+    4300184: ridge tile-D002
+    4300186: Line1983494051
+    4300188: "Layer:\uAF43\uB2F4\uC11D048"
+    4300190: Rectangle16130
+    4300192: Line1983494052
+    4300194: Object19144
+    4300196: ridge tile-B002
+    4300198: Object19147
+    4300200: ridge tile-C001
+    4300202: Object19146
+    4300204: Object19148
+    4300206: Line1983494054
+    4300208: Object19149
+    4300210: ridge tile-D004
+    4300212: ridge tile-B003
+    4300214: Line1983494057
+    4300216: Line1983494058
+    4300218: "Layer:\uAF43\uB2F4\uC11D049"
+    4300220: Rectangle16131
+    4300222: rooftile-B-070
+    4300224: Line1983494053
+    4300226: ridge tile-D003
+    4300228: Line1983494055
+    4300230: rooftile-B-069
+    4300232: Line1983494056
+    4300234: Object19150
+    4300236: ridge tile-C002
+    4300238: Object19151
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

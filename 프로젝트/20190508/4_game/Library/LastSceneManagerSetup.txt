@@ -1,0 +1,22 @@
+sceneSetups:
+- path: Assets/Scenes/Title.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/difficulty.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/easy.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/normal.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/hard.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/map2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/somokjang.unity
+  isLoaded: 0
+  isActive: 0
